@@ -1,0 +1,18 @@
+.nav-search-wrapper > span {
+    background: rgba(255,255,255,0.125);
+    border-color: #282e34;   
+    color: #9d9d9d;
+}
+
+.nav-search-wrapper > input {
+    background: rgba(255,255,255,0.125);
+    border-color: #282e34;
+    color: #fff;
+    min-width: 300px;
+}
+
+.nav-search-wrapper > div > button {
+    background: rgba(255,255,255,0.125);
+    border-color: #282e34;
+    color: #9d9d9d;
+}
